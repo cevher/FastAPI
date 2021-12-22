@@ -1,6 +1,6 @@
 {
   "nodes": [
-    {
+{
 	"id":1,
 	"name":"Akdeniz universitesi" 
 },
@@ -66,7 +66,7 @@
 },
 {
 	"id":17,
-	"name":"ASSIM Abdullah Sevimcok Sivil Toplum ve Inovasyon Merkezi" 
+	"name":"ASSIM Abdullah Sevimcok Sivil targetplum ve Inovasyon Merkezi" 
 },
 {
 	"id":18,
@@ -137,283 +137,283 @@
 	"name":"Uluslararasilasma hizmetleri" 
 }
   ],
+  
   "links": [
-
    {
-    "from": 1,
-    "to": 26
+    "source": 1,
+    "target": 26
   },
   {
-    "from": 1,
-    "to": 27
+    "source": 1,
+    "target": 27
   },
   {
-    "from": 1,
-    "to": 29
+    "source": 1,
+    "target": 29
   },
   {
-    "from": 1,
-    "to": 30
+    "source": 1,
+    "target": 30
   },
   {
-    "from": 1,
-    "to": 32
+    "source": 1,
+    "target": 32
   },
   {
-    "from": 1,
-    "to": 34
+    "source": 1,
+    "target": 34
   },
   {
-    "from": 2,
-    "to": 26
+    "source": 2,
+    "target": 26
   },
   {
-    "from": 2,
-    "to": 27
+    "source": 2,
+    "target": 27
   },
   {
-    "from": 2,
-    "to": 30
+    "source": 2,
+    "target": 30
   },
   {
-    "from": 3,
-    "to": 26
+    "source": 3,
+    "target": 26
   },
   {
-    "from": 3,
-    "to": 27
+    "source": 3,
+    "target": 27
   },
   {
-    "from": 3,
-    "to": 30
+    "source": 3,
+    "target": 30
   },
   {
-    "from": 4,
-    "to": 26
+    "source": 4,
+    "target": 26
   },
   {
-    "from": 4,
-    "to": 27
+    "source": 4,
+    "target": 27
   },
   {
-    "from": 4,
-    "to": 30
+    "source": 4,
+    "target": 30
   },
   {
-    "from": 5,
-    "to": 26
+    "source": 5,
+    "target": 26
   },
   {
-    "from": 5,
-    "to": 27
+    "source": 5,
+    "target": 27
   },
   {
-    "from": 5,
-    "to": 30
+    "source": 5,
+    "target": 30
   },
   {
-    "from": 6,
-    "to": 27
+    "source": 6,
+    "target": 27
   },
   {
-    "from": 6,
-    "to": 30
+    "source": 6,
+    "target": 30
   },
   {
-    "from": 6,
-    "to": 31
+    "source": 6,
+    "target": 31
   },
   {
-    "from": 7,
-    "to": 27
+    "source": 7,
+    "target": 27
   },
   {
-    "from": 7,
-    "to": 30
+    "source": 7,
+    "target": 30
   },
   {
-    "from": 8,
-    "to": 27
+    "source": 8,
+    "target": 27
   },
   {
-    "from": 8,
-    "to": 29
+    "source": 8,
+    "target": 29
   },
   {
-    "from": 8,
-    "to": 30
+    "source": 8,
+    "target": 30
   },
   {
-    "from": 8,
-    "to": 32
+    "source": 8,
+    "target": 32
   },
   {
-    "from": 8,
-    "to": 33
+    "source": 8,
+    "target": 33
   },
   {
-    "from": 8,
-    "to": 34
+    "source": 8,
+    "target": 34
   },
   {
-    "from": 9,
-    "to": 27
+    "source": 9,
+    "target": 27
   },
   {
-    "from": 9,
-    "to": 30
+    "source": 9,
+    "target": 30
   },
   {
-    "from": 9,
-    "to": 31
+    "source": 9,
+    "target": 31
   },
   {
-    "from": 10,
-    "to": 27
+    "source": 10,
+    "target": 27
   },
   {
-    "from": 10,
-    "to": 30
+    "source": 10,
+    "target": 30
   },
   {
-    "from": 11,
-    "to": 27
+    "source": 11,
+    "target": 27
   },
   {
-    "from": 11,
-    "to": 29
+    "source": 11,
+    "target": 29
   },
   {
-    "from": 11,
-    "to": 30
+    "source": 11,
+    "target": 30
   },
   {
-    "from": 11,
-    "to": 31
+    "source": 11,
+    "target": 31
   },
   {
-    "from": 12,
-    "to": 27
+    "source": 12,
+    "target": 27
   },
   {
-    "from": 12,
-    "to": 30
+    "source": 12,
+    "target": 30
   },
   {
-    "from": 13,
-    "to": 27
+    "source": 13,
+    "target": 27
   },
   {
-    "from": 13,
-    "to": 30
+    "source": 13,
+    "target": 30
   },
   {
-    "from": 14,
-    "to": 27
+    "source": 14,
+    "target": 27
   },
   {
-    "from": 14,
-    "to": 30
+    "source": 14,
+    "target": 30
   },
   {
-    "from": 15,
-    "to": 30
+    "source": 15,
+    "target": 30
   },
   {
-    "from": 16,
-    "to": 27
+    "source": 16,
+    "target": 27
   },
   {
-    "from": 16,
-    "to": 30
+    "source": 16,
+    "target": 30
   },
   {
-    "from": 16,
-    "to": 31
+    "source": 16,
+    "target": 31
   },
   {
-    "from": 17,
-    "to": 27
+    "source": 17,
+    "target": 27
   },
   {
-    "from": 17,
-    "to": 30
+    "source": 17,
+    "target": 30
   },
   {
-    "from": 17,
-    "to": 31
+    "source": 17,
+    "target": 31
   },
   {
-    "from": 18,
-    "to": 27
+    "source": 18,
+    "target": 27
   },
   {
-    "from": 18,
-    "to": 28
+    "source": 18,
+    "target": 28
   },
   {
-    "from": 18,
-    "to": 30
+    "source": 18,
+    "target": 30
   },
   {
-    "from": 19,
-    "to": 27
+    "source": 19,
+    "target": 27
   },
   {
-    "from": 19,
-    "to": 28
+    "source": 19,
+    "target": 28
   },
   {
-    "from": 19,
-    "to": 30
+    "source": 19,
+    "target": 30
   },
   {
-    "from": 19,
-    "to": 32
+    "source": 19,
+    "target": 32
   },
   {
-    "from": 20,
-    "to": 28
+    "source": 20,
+    "target": 28
   },
   {
-    "from": 20,
-    "to": 30
+    "source": 20,
+    "target": 30
   },
   {
-    "from": 21,
-    "to": 28
+    "source": 21,
+    "target": 28
   },
   {
-    "from": 21,
-    "to": 30
+    "source": 21,
+    "target": 30
   },
   {
-    "from": 22,
-    "to": 28
+    "source": 22,
+    "target": 28
   },
   {
-    "from": 23,
-    "to": 28
+    "source": 23,
+    "target": 28
   },
   {
-    "from": 24,
-    "to": 27
+    "source": 24,
+    "target": 27
   },
   {
-    "from": 24,
-    "to": 28
+    "source": 24,
+    "target": 28
   },
   {
-    "from": 24,
-    "to": 30
+    "source": 24,
+    "target": 30
   },
   {
-    "from": 25,
-    "to": 27
+    "source": 25,
+    "target": 27
   },
   {
-    "from": 25,
-    "to": 30
+    "source": 25,
+    "target": 30
   }
   ]
 }
