@@ -1,0 +1,418 @@
+[
+nodes: [
+{
+	"id":1,
+	"name":"Akdeniz universitesi" 
+},
+{
+	"id":2,
+	"name":"Antalya Bilim universitesi" 
+},
+{
+	"id":3,
+	"name":"Alanya Alaattin Keykubat universitesi" 
+},
+{
+	"id":4,
+	"name":"Akev universitesi" 
+},
+{
+	"id":5,
+	"name":"Alanya Hamdullah Emin Pasa universitesi" 
+},
+{
+	"id":6,
+	"name":"ALKu Teknoloji Transfer Ofisi Uygulama ve Arastirma Merkezi" 
+},
+{
+	"id":7,
+	"name":"Antalya Bilim universitesi Teknoloji Transfer Ofisi" 
+},
+{
+	"id":8,
+	"name":"Bati Akdeniz Teknokenti Teknoloji Gelistirme Bolgesi" 
+},
+{
+	"id":9,
+	"name":"Antalya OSB Teknopark" 
+},
+{
+	"id":10,
+	"name":"Antalya OSB" 
+},
+{
+	"id":11,
+	"name":"Antalya Ticaret ve Sayi Odasi" 
+},
+{
+	"id":12,
+	"name":"Mavgat Ticaret ve Sayi Odasi" 
+},
+{
+	"id":13,
+	"name":"Alanya Ticaret ve Sayi Odasi" 
+},
+{
+	"id":14,
+	"name":"Kumluca Ticaret ve Sayi Odasi" 
+},
+{
+	"id":15,
+	"name":"Bati Akdeniz Ihracatcilar Birligi" 
+},
+{
+	"id":16,
+	"name":"Antalya Teknokent Girisimcilik ve Kulucka Merkezi" 
+},
+{
+	"id":17,
+	"name":"ASSIM Abdullah Sevimcok Sivil Toplum ve Inovasyon Merkezi" 
+},
+{
+	"id":18,
+	"name":"BAKA" 
+},
+{
+	"id":19,
+	"name":"KOSGEB Antalya Il Mudurulugu" 
+},
+{
+	"id":20,
+	"name":"Sayi ve Teknoloji Bakanligi Antalya Il  Mudurlugu" 
+},
+{
+	"id":21,
+	"name":"TuBITAK" 
+},
+{
+	"id":22,
+	"name":"Tarim ve Orman Bakanligi Antalya Il  Mudurlugu" 
+},
+{
+	"id":23,
+	"name":"Ticaret Bakanligi Antalya Il Mudurulug" 
+},
+{
+	"id":24,
+	"name":"ANSIAD" 
+},
+{
+	"id":25,
+	"name":"APGEM" 
+},
+{
+	"id":26,
+	"name":"orgun ve Yaygin Egitim" 
+},
+{
+	"id":27,
+	"name":"Proje Danismanligi" 
+},
+{
+	"id":28,
+	"name":"Fon Saglama" 
+},
+{
+	"id":29,
+	"name":"Patentleme Hizmetleri" 
+},
+{
+	"id":30,
+	"name":"Girisimcilik Hizmetleri" 
+},
+{
+	"id":31,
+	"name":"Kuluckalik Hizmetleri" 
+},
+{
+	"id":32,
+	"name":"Ticarilestirme" 
+},
+{
+	"id":33,
+	"name":"sirketlesme Hizmetleri" 
+},
+{
+	"id":34,
+	"name":"Uluslararasilasma hizmetleri" 
+}
+],
+"links: [
+ {
+    "from": "1",
+    "to": "26"
+  },
+  {
+    "from": "1",
+    "to": "27"
+  },
+  {
+    "from": "1",
+    "to": "29"
+  },
+  {
+    "from": "1",
+    "to": "30"
+  },
+  {
+    "from": "1",
+    "to": "32"
+  },
+  {
+    "from": "1",
+    "to": "34"
+  },
+  {
+    "from": "2",
+    "to": "26"
+  },
+  {
+    "from": "2",
+    "to": "27"
+  },
+  {
+    "from": "2",
+    "to": "30"
+  },
+  {
+    "from": "3",
+    "to": "26"
+  },
+  {
+    "from": "3",
+    "to": "27"
+  },
+  {
+    "from": "3",
+    "to": "30"
+  },
+  {
+    "from": "4",
+    "to": "26"
+  },
+  {
+    "from": "4",
+    "to": "27"
+  },
+  {
+    "from": "4",
+    "to": "30"
+  },
+  {
+    "from": "5",
+    "to": "26"
+  },
+  {
+    "from": "5",
+    "to": "27"
+  },
+  {
+    "from": "5",
+    "to": "30"
+  },
+  {
+    "from": "6",
+    "to": "27"
+  },
+  {
+    "from": "6",
+    "to": "30"
+  },
+  {
+    "from": "6",
+    "to": "31"
+  },
+  {
+    "from": "7",
+    "to": "27"
+  },
+  {
+    "from": "7",
+    "to": "30"
+  },
+  {
+    "from": "8",
+    "to": "27"
+  },
+  {
+    "from": "8",
+    "to": "29"
+  },
+  {
+    "from": "8",
+    "to": "30"
+  },
+  {
+    "from": "8",
+    "to": "32"
+  },
+  {
+    "from": "8",
+    "to": "33"
+  },
+  {
+    "from": "8",
+    "to": "34"
+  },
+  {
+    "from": "9",
+    "to": "27"
+  },
+  {
+    "from": "9",
+    "to": "30"
+  },
+  {
+    "from": "9",
+    "to": "31"
+  },
+  {
+    "from": "10",
+    "to": "27"
+  },
+  {
+    "from": "10",
+    "to": "30"
+  },
+  {
+    "from": "11",
+    "to": "27"
+  },
+  {
+    "from": "11",
+    "to": "29"
+  },
+  {
+    "from": "11",
+    "to": "30"
+  },
+  {
+    "from": "11",
+    "to": "31"
+  },
+  {
+    "from": "12",
+    "to": "27"
+  },
+  {
+    "from": "12",
+    "to": "30"
+  },
+  {
+    "from": "13",
+    "to": "27"
+  },
+  {
+    "from": "13",
+    "to": "30"
+  },
+  {
+    "from": "14",
+    "to": "27"
+  },
+  {
+    "from": "14",
+    "to": "30"
+  },
+  {
+    "from": "15",
+    "to": "30"
+  },
+  {
+    "from": "16",
+    "to": "27"
+  },
+  {
+    "from": "16",
+    "to": "30"
+  },
+  {
+    "from": "16",
+    "to": "31"
+  },
+  {
+    "from": "17",
+    "to": "27"
+  },
+  {
+    "from": "17",
+    "to": "30"
+  },
+  {
+    "from": "17",
+    "to": "31"
+  },
+  {
+    "from": "18",
+    "to": "27"
+  },
+  {
+    "from": "18",
+    "to": "28"
+  },
+  {
+    "from": "18",
+    "to": "30"
+  },
+  {
+    "from": "19",
+    "to": "27"
+  },
+  {
+    "from": "19",
+    "to": "28"
+  },
+  {
+    "from": "19",
+    "to": "30"
+  },
+  {
+    "from": "19",
+    "to": "32"
+  },
+  {
+    "from": "20",
+    "to": "28"
+  },
+  {
+    "from": "20",
+    "to": "30"
+  },
+  {
+    "from": "21",
+    "to": "28"
+  },
+  {
+    "from": "21",
+    "to": "30"
+  },
+  {
+    "from": "22",
+    "to": "28"
+  },
+  {
+    "from": "23",
+    "to": "28"
+  },
+  {
+    "from": "24",
+    "to": "27"
+  },
+  {
+    "from": "24",
+    "to": "28"
+  },
+  {
+    "from": "24",
+    "to": "30"
+  },
+  {
+    "from": "25",
+    "to": "27"
+  },
+  {
+    "from": "25",
+    "to": "30"
+  }
+  ]
+}
