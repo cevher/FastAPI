@@ -2,35 +2,35 @@
   "nodes": [
 {
 	"id":1,
-	"name":"Akdeniz universitesi" 
+	"name":"Akdeniz U." 
 },
 {
 	"id":2,
-	"name":"Antalya Bilim universitesi" 
+	"name":"Antalya Bilim U." 
 },
 {
 	"id":3,
-	"name":"Alanya Alaattin Keykubat universitesi" 
+	"name":"ALKU" 
 },
 {
 	"id":4,
-	"name":"Akev universitesi" 
+	"name":"Akev U." 
 },
 {
 	"id":5,
-	"name":"Alanya Hamdullah Emin Pasa universitesi" 
+	"name":"AHEP U. " 
 },
 {
 	"id":6,
-	"name":"ALKu Teknoloji Transfer Ofisi Uygulama ve Arastirma Merkezi" 
+	"name":"ALKU TTO" 
 },
 {
 	"id":7,
-	"name":"Antalya Bilim universitesi Teknoloji Transfer Ofisi" 
+	"name":"Antalya Bilim U. TTO" 
 },
 {
 	"id":8,
-	"name":"Bati Akdeniz Teknokenti Teknoloji Gelistirme Bolgesi" 
+	"name":"Antalya Teknokent" 
 },
 {
 	"id":9,
@@ -42,31 +42,27 @@
 },
 {
 	"id":11,
-	"name":"Antalya Ticaret ve Sayi Odasi" 
+	"name":"ATSO" 
 },
 {
 	"id":12,
-	"name":"Mavgat Ticaret ve Sayi Odasi" 
+	"name":"MATSO" 
 },
 {
 	"id":13,
-	"name":"Alanya Ticaret ve Sayi Odasi" 
+	"name":"ALTSO" 
 },
 {
 	"id":14,
-	"name":"Kumluca Ticaret ve Sayi Odasi" 
+	"name":"KUTSO" 
 },
 {
 	"id":15,
-	"name":"Bati Akdeniz Ihracatcilar Birligi" 
-},
-{
-	"id":16,
-	"name":"Antalya Teknokent Girisimcilik ve Kulucka Merkezi" 
+	"name":"BAİB" 
 },
 {
 	"id":17,
-	"name":"ASSIM Abdullah Sevimcok Sivil targetplum ve Inovasyon Merkezi" 
+	"name":"ASSIM " 
 },
 {
 	"id":18,
@@ -74,23 +70,23 @@
 },
 {
 	"id":19,
-	"name":"KOSGEB Antalya Il Mudurulugu" 
+	"name":"KOSGEB Antalya Il M." 
 },
 {
 	"id":20,
-	"name":"Sayi ve Teknoloji Bakanligi Antalya Il  Mudurlugu" 
+	"name":"San. ve Tek. B. Antalya Il  M." 
 },
 {
 	"id":21,
-	"name":"TuBITAK" 
+	"name":"TUBITAK" 
 },
 {
 	"id":22,
-	"name":"Tarim ve Orman Bakanligi Antalya Il  Mudurlugu" 
+	"name":"Tarim ve O. B. Antalya Il  M." 
 },
 {
 	"id":23,
-	"name":"Ticaret Bakanligi Antalya Il Mudurulug" 
+	"name":"Tic. B. Antalya Il M." 
 },
 {
 	"id":24,
@@ -319,18 +315,7 @@
     "source": 15,
     "target": 30
   },
-  {
-    "source": 16,
-    "target": 27
-  },
-  {
-    "source": 16,
-    "target": 30
-  },
-  {
-    "source": 16,
-    "target": 31
-  },
+ 
   {
     "source": 17,
     "target": 27
