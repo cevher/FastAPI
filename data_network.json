@@ -1,405 +1,401 @@
 {
-  "nodes": [
-{
-	"id":1,
-	"name":"Akdeniz U." 
-},
-{
-	"id":2,
-	"name":"Antalya Bilim U." 
-},
-{
-	"id":3,
-	"name":"ALKU" 
-},
-{
-	"id":4,
-	"name":"Akev U." 
-},
-{
-	"id":5,
-	"name":"AHEP U. " 
-},
-{
-	"id":6,
-	"name":"ALKU TTO" 
-},
-{
-	"id":7,
-	"name":"Antalya Bilim U. TTO" 
-},
-{
-	"id":8,
-	"name":"Antalya Teknokent" 
-},
-{
-	"id":9,
-	"name":"Antalya OSB Teknopark" 
-},
-{
-	"id":10,
-	"name":"Antalya OSB" 
-},
-{
-	"id":11,
-	"name":"ATSO" 
-},
-{
-	"id":12,
-	"name":"MATSO" 
-},
-{
-	"id":13,
-	"name":"ALTSO" 
-},
-{
-	"id":14,
-	"name":"KUTSO" 
-},
-{
-	"id":15,
-	"name":"BAİB" 
-},
-{
-	"id":17,
-	"name":"ASSIM " 
-},
-{
-	"id":18,
-	"name":"BAKA" 
-},
-{
-	"id":19,
-	"name":"KOSGEB Antalya Il M." 
-},
-{
-	"id":20,
-	"name":"San. ve Tek. B. Antalya Il  M." 
-},
-{
-	"id":21,
-	"name":"TUBITAK" 
-},
-{
-	"id":22,
-	"name":"Tarim ve O. B. Antalya Il  M." 
-},
-{
-	"id":23,
-	"name":"Tic. B. Antalya Il M." 
-},
-{
-	"id":24,
-	"name":"ANSIAD" 
-},
-{
-	"id":25,
-	"name":"APGEM" 
-},
-{
-	"id":26,
-	"name":"orgun ve Yaygin Egitim" 
-},
-{
-	"id":27,
-	"name":"Proje Danismanligi" 
-},
-{
-	"id":28,
-	"name":"Fon Saglama" 
-},
-{
-	"id":29,
-	"name":"Patentleme Hizmetleri" 
-},
-{
-	"id":30,
-	"name":"Girisimcilik Hizmetleri" 
-},
-{
-	"id":31,
-	"name":"Kuluckalik Hizmetleri" 
-},
-{
-	"id":32,
-	"name":"Ticarilestirme" 
-},
-{
-	"id":33,
-	"name":"sirketlesme Hizmetleri" 
-},
-{
-	"id":34,
-	"name":"Uluslararasilasma hizmetleri" 
-}
-  ],
-  
-  "links": [
-   {
-    "source": 1,
-    "target": 26
-  },
-  {
-    "source": 1,
-    "target": 27
-  },
-  {
-    "source": 1,
-    "target": 29
-  },
-  {
-    "source": 1,
-    "target": 30
-  },
-  {
-    "source": 1,
-    "target": 32
-  },
-  {
-    "source": 1,
-    "target": 34
-  },
-  {
-    "source": 2,
-    "target": 26
-  },
-  {
-    "source": 2,
-    "target": 27
-  },
-  {
-    "source": 2,
-    "target": 30
-  },
-  {
-    "source": 3,
-    "target": 26
-  },
-  {
-    "source": 3,
-    "target": 27
-  },
-  {
-    "source": 3,
-    "target": 30
-  },
-  {
-    "source": 4,
-    "target": 26
-  },
-  {
-    "source": 4,
-    "target": 27
-  },
-  {
-    "source": 4,
-    "target": 30
-  },
-  {
-    "source": 5,
-    "target": 26
-  },
-  {
-    "source": 5,
-    "target": 27
-  },
-  {
-    "source": 5,
-    "target": 30
-  },
-  {
-    "source": 6,
-    "target": 27
-  },
-  {
-    "source": 6,
-    "target": 30
-  },
-  {
-    "source": 6,
-    "target": 31
-  },
-  {
-    "source": 7,
-    "target": 27
-  },
-  {
-    "source": 7,
-    "target": 30
-  },
-  {
-    "source": 8,
-    "target": 27
-  },
-  {
-    "source": 8,
-    "target": 29
-  },
-  {
-    "source": 8,
-    "target": 30
-  },
-  {
-    "source": 8,
-    "target": 32
-  },
-  {
-    "source": 8,
-    "target": 33
-  },
-  {
-    "source": 8,
-    "target": 34
-  },
-  {
-    "source": 9,
-    "target": 27
-  },
-  {
-    "source": 9,
-    "target": 30
-  },
-  {
-    "source": 9,
-    "target": 31
-  },
-  {
-    "source": 10,
-    "target": 27
-  },
-  {
-    "source": 10,
-    "target": 30
-  },
-  {
-    "source": 11,
-    "target": 27
-  },
-  {
-    "source": 11,
-    "target": 29
-  },
-  {
-    "source": 11,
-    "target": 30
-  },
-  {
-    "source": 11,
-    "target": 31
-  },
-  {
-    "source": 12,
-    "target": 27
-  },
-  {
-    "source": 12,
-    "target": 30
-  },
-  {
-    "source": 13,
-    "target": 27
-  },
-  {
-    "source": 13,
-    "target": 30
-  },
-  {
-    "source": 14,
-    "target": 27
-  },
-  {
-    "source": 14,
-    "target": 30,
-	
-  },
-  {
-    "source": 15,
-    "target": 30
-  },
- 
-  {
-    "source": 17,
-    "target": 27
-  },
-  {
-    "source": 17,
-    "target": 30
-  },
-  {
-    "source": 17,
-    "target": 31
-  },
-  {
-    "source": 18,
-    "target": 27
-  },
-  {
-    "source": 18,
-    "target": 28
-  },
-  {
-    "source": 18,
-    "target": 30
-  },
-  {
-    "source": 19,
-    "target": 27
-  },
-  {
-    "source": 19,
-    "target": 28
-  },
-  {
-    "source": 19,
-    "target": 30
-  },
-  {
-    "source": 19,
-    "target": 32
-  },
-  {
-    "source": 20,
-    "target": 28
-  },
-  {
-    "source": 20,
-    "target": 30
-  },
-  {
-    "source": 21,
-    "target": 28
-  },
-  {
-    "source": 21,
-    "target": 30
-  },
-  {
-    "source": 22,
-    "target": 28
-  },
-  {
-    "source": 23,
-    "target": 28
-  },
-  {
-    "source": 24,
-    "target": 27
-  },
-  {
-    "source": 24,
-    "target": 28
-  },
-  {
-    "source": 24,
-    "target": 30
-  },
-  {
-    "source": 25,
-    "target": 27
-  },
-  {
-    "source": 25,
-    "target": 30
-  }
-  ]
+	"nodes": [{
+			"id": 1,
+			"name": "Akdeniz U."
+		},
+		{
+			"id": 2,
+			"name": "Antalya Bilim U."
+		},
+		{
+			"id": 3,
+			"name": "ALKU"
+		},
+		{
+			"id": 4,
+			"name": "Akev U."
+		},
+		{
+			"id": 5,
+			"name": "AHEP U."
+		},
+		{
+			"id": 6,
+			"name": "ALKU TTO"
+		},
+		{
+			"id": 7,
+			"name": "Antalya Bilim U. TTO"
+		},
+		{
+			"id": 8,
+			"name": "Antalya Teknokent"
+		},
+		{
+			"id": 9,
+			"name": "Antalya OSB Teknopark"
+		},
+		{
+			"id": 10,
+			"name": "Antalya OSB"
+		},
+		{
+			"id": 11,
+			"name": "ATSO"
+		},
+		{
+			"id": 12,
+			"name": "MATSO"
+		},
+		{
+			"id": 13,
+			"name": "ALTSO"
+		},
+		{
+			"id": 14,
+			"name": "KUTSO"
+		},
+		{
+			"id": 15,
+			"name": "BAİB"
+		},
+		{
+			"id": 17,
+			"name": "ASSIM "
+		},
+		{
+			"id": 18,
+			"name": "BAKA"
+		},
+		{
+			"id": 19,
+			"name": "KOSGEB Antalya Il M."
+		},
+		{
+			"id": 20,
+			"name": "San. ve Tek. B. Antalya Il  M."
+		},
+		{
+			"id": 21,
+			"name": "TUBITAK"
+		},
+		{
+			"id": 22,
+			"name": "Tarim ve O. B. Antalya Il  M."
+		},
+		{
+			"id": 23,
+			"name": "Tic. B. Antalya Il M."
+		},
+		{
+			"id": 24,
+			"name": "ANSIAD"
+		},
+		{
+			"id": 25,
+			"name": "APGEM"
+		},
+		{
+			"id": 26,
+			"name": "orgun ve Yaygin Egitim"
+		},
+		{
+			"id": 27,
+			"name": "Proje Danismanligi"
+		},
+		{
+			"id": 28,
+			"name": "Fon Saglama"
+		},
+		{
+			"id": 29,
+			"name": "Patentleme Hizmetleri"
+		},
+		{
+			"id": 30,
+			"name": "Girisimcilik Hizmetleri"
+		},
+		{
+			"id": 31,
+			"name": "Kuluckalik Hizmetleri"
+		},
+		{
+			"id": 32,
+			"name": "Ticarilestirme"
+		},
+		{
+			"id": 33,
+			"name": "sirketlesme Hizmetleri"
+		},
+		{
+			"id": 34,
+			"name": "Uluslararasilasma hizmetleri"
+		}
+	],
+
+	"links": [{
+			"source": 1,
+			"target": 26
+		},
+		{
+			"source": 1,
+			"target": 27
+		},
+		{
+			"source": 1,
+			"target": 29
+		},
+		{
+			"source": 1,
+			"target": 30
+		},
+		{
+			"source": 1,
+			"target": 32
+		},
+		{
+			"source": 1,
+			"target": 34
+		},
+		{
+			"source": 2,
+			"target": 26
+		},
+		{
+			"source": 2,
+			"target": 27
+		},
+		{
+			"source": 2,
+			"target": 30
+		},
+		{
+			"source": 3,
+			"target": 26
+		},
+		{
+			"source": 3,
+			"target": 27
+		},
+		{
+			"source": 3,
+			"target": 30
+		},
+		{
+			"source": 4,
+			"target": 26
+		},
+		{
+			"source": 4,
+			"target": 27
+		},
+		{
+			"source": 4,
+			"target": 30
+		},
+		{
+			"source": 5,
+			"target": 26
+		},
+		{
+			"source": 5,
+			"target": 27
+		},
+		{
+			"source": 5,
+			"target": 30
+		},
+		{
+			"source": 6,
+			"target": 27
+		},
+		{
+			"source": 6,
+			"target": 30
+		},
+		{
+			"source": 6,
+			"target": 31
+		},
+		{
+			"source": 7,
+			"target": 27
+		},
+		{
+			"source": 7,
+			"target": 30
+		},
+		{
+			"source": 8,
+			"target": 27
+		},
+		{
+			"source": 8,
+			"target": 29
+		},
+		{
+			"source": 8,
+			"target": 30
+		},
+		{
+			"source": 8,
+			"target": 32
+		},
+		{
+			"source": 8,
+			"target": 33
+		},
+		{
+			"source": 8,
+			"target": 34
+		},
+		{
+			"source": 9,
+			"target": 27
+		},
+		{
+			"source": 9,
+			"target": 30
+		},
+		{
+			"source": 9,
+			"target": 31
+		},
+		{
+			"source": 10,
+			"target": 27
+		},
+		{
+			"source": 10,
+			"target": 30
+		},
+		{
+			"source": 11,
+			"target": 27
+		},
+		{
+			"source": 11,
+			"target": 29
+		},
+		{
+			"source": 11,
+			"target": 30
+		},
+		{
+			"source": 11,
+			"target": 31
+		},
+		{
+			"source": 12,
+			"target": 27
+		},
+		{
+			"source": 12,
+			"target": 30
+		},
+		{
+			"source": 13,
+			"target": 27
+		},
+		{
+			"source": 13,
+			"target": 30
+		},
+		{
+			"source": 14,
+			"target": 27
+		},
+		{
+			"source": 14,
+			"target": 30
+		},
+		{
+			"source": 15,
+			"target": 30
+		},
+		{
+			"source": 17,
+			"target": 27
+		},
+		{
+			"source": 17,
+			"target": 30
+		},
+		{
+			"source": 17,
+			"target": 31
+		},
+		{
+			"source": 18,
+			"target": 27
+		},
+		{
+			"source": 18,
+			"target": 28
+		},
+		{
+			"source": 18,
+			"target": 30
+		},
+		{
+			"source": 19,
+			"target": 27
+		},
+		{
+			"source": 19,
+			"target": 28
+		},
+		{
+			"source": 19,
+			"target": 30
+		},
+		{
+			"source": 19,
+			"target": 32
+		},
+		{
+			"source": 20,
+			"target": 28
+		},
+		{
+			"source": 20,
+			"target": 30
+		},
+		{
+			"source": 21,
+			"target": 28
+		},
+		{
+			"source": 21,
+			"target": 30
+		},
+		{
+			"source": 22,
+			"target": 28
+		},
+		{
+			"source": 23,
+			"target": 28
+		},
+		{
+			"source": 24,
+			"target": 27
+		},
+		{
+			"source": 24,
+			"target": 28
+		},
+		{
+			"source": 24,
+			"target": 30
+		},
+		{
+			"source": 25,
+			"target": 27
+		},
+		{
+			"source": 25,
+			"target": 30
+		}
+	]
 }
